@@ -1,6 +1,6 @@
 # Square-Wave-Generation-Using-8051
-# NAME : GOKUL PRASAD H
-# REG NO: 212224050011
+# NAME : GOKUL S
+# REG NO: 212224050010
 
 ## Aim:
 To generate a square wave using the 8051 microcontroller and observe the waveform using Keil software and Proteus simulation.
